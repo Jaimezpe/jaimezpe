@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi there! Hi, I'm Jaime! Nice to meet you! As a JavaScript and HTML developer, I'm a passionate Computer and programming person with a keen interest in software development and technology. In my profile, you can find many of my projects and uses of GitHub.</p>
+
 
 ###
 
