@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaimezpe/jaimezpe/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jaimezpe/jaimezpe/snake.svg" />
 
 ###
 
@@ -42,8 +42,9 @@ Hi there! Hi, I'm Jaime! Nice to meet you! As a JavaScript and HTML developer, I
 
 ![](https://visitcount.itsvg.in/api?id=jaimezpe&label=Profile%20Views&color=0&icon=2&pretty=true)
 
-##Profile views counter
+
 
 <div align="center">
+  <h2>Profile views</h2>
   <img src="https://profile-counter.glitch.me/jaimezpe/count.svg?"  />
 </div>
