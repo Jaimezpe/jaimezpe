@@ -41,7 +41,9 @@ Hi there! Hi, I'm Jaime! Nice to meet you! As a JavaScript and HTML developer, I
 ![separador](https://github.com/Jaimezpe/jaimezpe/assets/85058301/d1833418-c072-4a1b-bedc-3d2d049efc75)
 
 ![](https://visitcount.itsvg.in/api?id=jaimezpe&label=Profile%20Views&color=0&icon=2&pretty=true)
+
 ##Profile views counter
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/jaimezpe/count.svg?"  />
 </div>
