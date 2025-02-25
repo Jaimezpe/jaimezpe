@@ -10,15 +10,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaimezpe/jaimezpe/snake.svg" />
 
 ###
 
 
 
-###
+### Some coding languages I use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
