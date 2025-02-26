@@ -2,7 +2,7 @@
 <h2 align="left">Hey! I'm Jaime 👋!</h2>
 
 ###
-Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technology and eager to create. 
+Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technology and eager to create. Using creativity for create technology has become a very important part of my life. I love experimenting with both hardware and software
 
 
 
