@@ -1,7 +1,11 @@
 
 <h2 align="left">Hey! I'm Jaime 👋!</h2>
 
+
 ###
+![image](https://github.com/user-attachments/assets/635fc5cc-e711-45a1-b955-d0f643c25a22)
+
+
 Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technology and eager to create. Using creativity for create technology has become a very important part of my life. I love experimenting with both hardware and software
 
 
