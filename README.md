@@ -24,6 +24,7 @@ Here's my portfolio website, where I explain more about me: https://jaimezpe.com
 
 
 ## Some coding languages I use
+<center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -33,7 +34,11 @@ Here's my portfolio website, where I explain more about me: https://jaimezpe.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/3ed6f23f-35b3-40c3-9d13-96e7516cdfc5" height="40" alt="react logo"  />
+
+  
+</center>
 
 ###
 
