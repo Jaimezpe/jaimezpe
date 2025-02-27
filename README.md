@@ -9,6 +9,7 @@
 ###
 
 Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technology and eager to create. Using creativity for create technology has become a very important part of my life. I love experimenting with both hardware and software
+Here's my portfolio website, where I explain more about me: https://jaimezpe.com
 
 
 
