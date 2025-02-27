@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I'm Jaime 👋!</h2>
+# Hey! I'm Jaime 👋!
 
 
 ###
@@ -23,8 +23,7 @@ Here's my portfolio website, where I explain more about me: https://jaimezpe.com
 ###
 
 
-<div align="center">
-  <h2>Some coding languages I use</h2>
+## Some coding languages I use
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
