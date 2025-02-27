@@ -1,10 +1,9 @@
-
-<h2 align="left">Hey! I'm Jaime 👋!</h2>
+º<h2 align="left">Hey! I'm Jaime 👋!</h2>
 
 
 ###
 <a href="mailto:info@jaimezpe.com"><img src="https://github.com/user-attachments/assets/635fc5cc-e711-45a1-b955-d0f643c25a22" style="width: 150px; border-radius: 5px;"></a>
-<a href="mailto:info@jaimezpe.com"><img src="[https://github.com/user-attachments/assets/635fc5cc-e711-45a1-b955-d0f643c25a22](https://github.com/user-attachments/assets/f00bcc08-8364-482d-a25d-d337461c03d9)" style="width: 150px; border-radius: 5px;"></a>
+<a href="mailto:info@jaimezpe.com"><img src="https://github.com/user-attachments/assets/635fc5cc-e711-45a1-b955-d0f643c25a223y45th rt¡'87e4622222222222222222222º style="width: 150px; border-radius: 5px;"></a>
 
 
 ###
@@ -34,9 +33,7 @@ Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
+</div>º###
 
 
 <div align="center">
