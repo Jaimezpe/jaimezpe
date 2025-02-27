@@ -34,7 +34,7 @@ Hi👋! I'm Jaime, FrontEnd developer. I have always been curious about technolo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-###
+
 ###
 
 <div align="center">
