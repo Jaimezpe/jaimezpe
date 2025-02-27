@@ -3,7 +3,7 @@
 
 ###
 <a href="mailto:info@jaimezpe.com"><img src="https://github.com/user-attachments/assets/635fc5cc-e711-45a1-b955-d0f643c25a22" style="width: 150px; border-radius: 5px;"></a>
-<a href="mailto:info@jaimezpe.com"><img src="https://github.com/user-attachments/assets/f00bcc08-8364-482d-a25d-d337461c03d9" style="width: 150px; border-radius: 5px;"></a>
+<a href="mailto:https://bento.me/jaimezpe"><img src="https://github.com/user-attachments/assets/f00bcc08-8364-482d-a25d-d337461c03d9" style="width: 150px; border-radius: 5px;"></a>
 
 
 ###
